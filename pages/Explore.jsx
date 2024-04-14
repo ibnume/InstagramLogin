@@ -32,7 +32,7 @@ const Explore = () => {
         }));
         setposts(posts);
         setLoading(false);
-        // console.log(posts); aaa
+        // console.log(posts);
       });
     };
     return getData();
